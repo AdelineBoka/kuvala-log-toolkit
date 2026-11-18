@@ -1,0 +1,13 @@
+id,date,origin,destination,status,weight_kg,driver
+SH1001,2026-11-01,Gdansk,Berlin,delivered,1200,Piotr
+SH1002,2026-11-01,Harare,Beira,delivered,3400,Tendai
+SH1003,2026-11-02,Durban,Harare,delayed,5100,Farai
+SH1004,2026-11-02,Gdansk,Prague,delivered,860,Piotr
+SH1005,2026-11-03,Harare,Bulawayo,in_transit,2200,Chipo
+SH1006,2026-11-03,Durban,Maputo,delivered,4300,Farai
+SH1007,2026-11-04,Gdansk,Vienna,delayed,1750,Anna
+SH1008,2026-11-05,Harare,Mutare,delivered,980,Chipo
+SH1009,2026-11-05,Durban,Harare,delivered,6200,Farai
+SH1010,2026-11-06,Gdansk,Berlin,cancelled,400,Piotr
+SH1011,2026-11-07,Harare,Beira,delayed,3900,Tendai
+SH1012,2026-11-08,Durban,Maputo,in_transit,2800,Farai
