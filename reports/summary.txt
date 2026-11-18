@@ -1,0 +1,9 @@
+Kuvala Shipment Summary
+Delayed shipments:
+3
+Shipments per driver:
+      4 Farai
+      3 Piotr
+      2 Tendai
+      2 Chipo
+      1 Anna
