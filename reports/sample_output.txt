@@ -1,0 +1,19 @@
+Kuvala Shipment Summary
+Delayed shipments:
+3
+Shipments per driver:
+      4 Farai
+      3 Piotr
+      2 Tendai
+      2 Chipo
+      1 Anna
+Total weight (kg):
+33090
+Average weight (kg):
+2757.5
+Weight per driver (kg):
+Farai 18400
+Tendai 7300
+Chipo 3180
+Piotr 2460
+Anna 1750
