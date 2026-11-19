@@ -31,3 +31,11 @@ See `reports/sample_output.txt`.
 ## About
 
 Built while learning Linux. All data is fictional.
+
+## Testing
+
+```bash
+./tests/run_tests.sh
+```
+
+Runs the report on `data/log.csv` and compares it with `tests/expected_report.txt`. Prints PASS (exit code 0) or FAIL with a diff (exit code 1).
